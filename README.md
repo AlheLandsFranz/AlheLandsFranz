@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on my portfolio while i'm finishing the bootcamp SoyHenry.<br>👯 I’m looking to collaborate on a company who gets interest for what I have to offer.<br>🌱 I’m currently learning more about how to design better, and properties of css to improve my actual projects. <br>⚡ Fun fact: I worked not only like a communicator but circus artist. It looks like another life.
+🔭 I’m currently working on my portfolio while i'm finishing the bootcamp SoyHenry.<br>👯 I’m looking to collaborate on a company who gets interest for what I have to offer, that it is most of all an avid whish to keep learning an apply in real projects.<br>🌱 I’m currently learning more about how to design better, and properties of css to improve my actual projects. <br>⚡ Fun fact: I worked not only like a communicator but circus artist. It looks like another life.
 
 
 ## 🌐 Socials:
