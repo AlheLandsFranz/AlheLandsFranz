@@ -11,7 +11,7 @@
 Link to my first Single Page Application https://pokemon-app-topaz.vercel.app/
 
 ![Final Project](/finalProject.png)
-Link to my first Groupal Project https://proyecto-final-lime-beta.vercel.app/
+Link to my first Group Project https://proyecto-final-lime-beta.vercel.app/
 
 
 # 💻 Tech Stack:
