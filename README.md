@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 I am a person committed to continuous growth and learning. Thats most of it.
-🌱 In this moment, I'm learning more about how to design better, and properties and libraries of css to improve my actual projects. But my next step will be learn deeply Java. <br>
+🌱 In this moment, I'm learning more about how to design better, properties and libraries of css to improve my actual projects. But my next step will be learn deeply Java. <br>
 
 📫 How to reach me: alhenaplandsman@gmail.com
 
