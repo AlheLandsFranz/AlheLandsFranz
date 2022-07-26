@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 I am a person committed to continuous growth and learning. Thats most of it.
-🌱 In this moment, I'm learning Vue.js. <br>
+🌱 In this moment, I'm learning Vue.js and Ruby. <br>
 
 📫 How to reach me: alhenaplandsman@gmail.com
 
