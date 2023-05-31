@@ -1,7 +1,6 @@
 
 # 💫 About Me:
-I am a person committed to continuous growth and learning. Thats most of it.
-🌱 In this moment, I'm working for Shahtez Software Solutions. <br>
+I am a person committed to continuous growth and learning.  <br>
 
 📫 How to reach me: alhenaplandsman@gmail.com
 
