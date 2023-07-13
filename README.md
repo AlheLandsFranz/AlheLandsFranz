@@ -6,7 +6,7 @@ I am a person committed to continuous growth and learning.  <br>
 
 
 ## 🌐 Connect with me by:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alhena-landsman-full-stack-developer/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/alhena-landsman-full-stack-developer/) 
 
 # :astronaut: Projects:
 ![Single Page Application](/SPA.png)
