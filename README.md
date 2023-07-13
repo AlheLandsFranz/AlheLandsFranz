@@ -9,10 +9,10 @@ I am a person committed to continuous growth and learning.  <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alhena-landsman-full-stack-developer/)
 
 # :astronaut: Projects:
-![Single Page Application](/SPA.png)
+[![Single Page Application](/SPA.png)](https://pokemon-app-topaz.vercel.app/)
 Link to my first Single Page Application https://pokemon-app-topaz.vercel.app/
 
-![Final Project](/finalProject.png)(https://proyecto-final-lime-beta.vercel.app/)
+[![Final Project](/finalProject.png)](https://proyecto-final-lime-beta.vercel.app/)
 Link to my first Group Project https://proyecto-final-lime-beta.vercel.app/
 
 
