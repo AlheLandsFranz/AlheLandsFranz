@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am a person committed to continuous growth and learning.  <br>
+I am a person committed to continuous growth and learning. Now I'm learning ways to improve my design skills. <br>
 
 📫 How to reach me: alhenaplandsman@gmail.com
 
