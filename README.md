@@ -10,13 +10,13 @@ I am a person committed to continuous growth and learning. Now I'm learning ways
 
 # :astronaut: Some of my projects:
 
-[![Final Project](/finalProject.png)](https://proyecto-final-lime-beta.vercel.app/)
+[![Final Project](/assets/finalProject.png)](https://proyecto-final-lime-beta.vercel.app/)
 Link to my first Group Project https://proyecto-final-lime-beta.vercel.app/
 
-[![Single Page Application](/SPA.png)](https://pokemon-app-topaz.vercel.app/)
+[![Single Page Application](/assets/SPA.png)](https://pokemon-app-topaz.vercel.app/)
 Link to my first Single Page Application https://pokemon-app-topaz.vercel.app/
 
-[![Boca de Urna App](/bocadeurna.png)](https://sgo-voto-2022.vercel.app/)
+[![Boca de Urna App](/assets/bocadeurna.png)](https://sgo-voto-2022.vercel.app/)
 Link to project for organization https://sgo-voto-2022.vercel.app/
 
 # 💻 Tech Stack:
